@@ -1,0 +1,10 @@
+﻿{
+    "profiles": {
+      "MidiWatcher (Unpackaged)": {
+        "commandName": "Project"
+      },
+      "MidiWatcher (Package)": {
+        "commandName": "MsixPackage"
+      }
+    }
+}
